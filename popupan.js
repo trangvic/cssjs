@@ -1,5 +1,5 @@
 
-	var url_popup = 'http://cuahangvespachinhhangtaihanoi.blogspot.com/';
+	var url_popup = 'https://www.facebook.com/Piaggio-384835935026233/';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
